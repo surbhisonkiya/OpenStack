@@ -1,2 +1,2 @@
 # OpenStack
-Exploring OpenStack
+Exploring and Learning OpenStack
